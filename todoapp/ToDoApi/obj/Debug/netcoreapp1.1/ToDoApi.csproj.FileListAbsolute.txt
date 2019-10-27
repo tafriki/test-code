@@ -1,0 +1,11 @@
+C:\Users\TUMPENG\Downloads\todo-dotnet-core-master\todo-dotnet-core-master\ToDoApi\bin\Debug\netcoreapp1.1\ToDoApi.deps.json
+C:\Users\TUMPENG\Downloads\todo-dotnet-core-master\todo-dotnet-core-master\ToDoApi\bin\Debug\netcoreapp1.1\ToDoApi.runtimeconfig.json
+C:\Users\TUMPENG\Downloads\todo-dotnet-core-master\todo-dotnet-core-master\ToDoApi\bin\Debug\netcoreapp1.1\ToDoApi.runtimeconfig.dev.json
+C:\Users\TUMPENG\Downloads\todo-dotnet-core-master\todo-dotnet-core-master\ToDoApi\bin\Debug\netcoreapp1.1\ToDoApi.dll
+C:\Users\TUMPENG\Downloads\todo-dotnet-core-master\todo-dotnet-core-master\ToDoApi\bin\Debug\netcoreapp1.1\ToDoApi.pdb
+C:\Users\TUMPENG\Downloads\todo-dotnet-core-master\todo-dotnet-core-master\ToDoApi\obj\Debug\netcoreapp1.1\ToDoApi.csproj.CoreCompileInputs.cache
+C:\Users\TUMPENG\Downloads\todo-dotnet-core-master\todo-dotnet-core-master\ToDoApi\obj\Debug\netcoreapp1.1\ToDoApi.AssemblyInfoInputs.cache
+C:\Users\TUMPENG\Downloads\todo-dotnet-core-master\todo-dotnet-core-master\ToDoApi\obj\Debug\netcoreapp1.1\ToDoApi.AssemblyInfo.cs
+C:\Users\TUMPENG\Downloads\todo-dotnet-core-master\todo-dotnet-core-master\ToDoApi\obj\Debug\netcoreapp1.1\ToDoApi.dll
+C:\Users\TUMPENG\Downloads\todo-dotnet-core-master\todo-dotnet-core-master\ToDoApi\obj\Debug\netcoreapp1.1\ToDoApi.pdb
+C:\Users\TUMPENG\Downloads\todo-dotnet-core-master\todo-dotnet-core-master\ToDoApi\obj\Debug\netcoreapp1.1\ToDoApi.csprojResolveAssemblyReference.cache

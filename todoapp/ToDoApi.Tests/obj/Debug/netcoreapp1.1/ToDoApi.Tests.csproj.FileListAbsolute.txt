@@ -1,0 +1,16 @@
+C:\Users\TUMPENG\Downloads\todo-dotnet-core-master\todo-dotnet-core-master\ToDoApi.Tests\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\TUMPENG\Downloads\todo-dotnet-core-master\todo-dotnet-core-master\ToDoApi.Tests\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+C:\Users\TUMPENG\Downloads\todo-dotnet-core-master\todo-dotnet-core-master\ToDoApi.Tests\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+C:\Users\TUMPENG\Downloads\todo-dotnet-core-master\todo-dotnet-core-master\ToDoApi.Tests\bin\Debug\netcoreapp1.1\ToDoApi.Tests.deps.json
+C:\Users\TUMPENG\Downloads\todo-dotnet-core-master\todo-dotnet-core-master\ToDoApi.Tests\bin\Debug\netcoreapp1.1\ToDoApi.Tests.runtimeconfig.json
+C:\Users\TUMPENG\Downloads\todo-dotnet-core-master\todo-dotnet-core-master\ToDoApi.Tests\bin\Debug\netcoreapp1.1\ToDoApi.Tests.runtimeconfig.dev.json
+C:\Users\TUMPENG\Downloads\todo-dotnet-core-master\todo-dotnet-core-master\ToDoApi.Tests\bin\Debug\netcoreapp1.1\ToDoApi.Tests.dll
+C:\Users\TUMPENG\Downloads\todo-dotnet-core-master\todo-dotnet-core-master\ToDoApi.Tests\bin\Debug\netcoreapp1.1\ToDoApi.Tests.pdb
+C:\Users\TUMPENG\Downloads\todo-dotnet-core-master\todo-dotnet-core-master\ToDoApi.Tests\bin\Debug\netcoreapp1.1\ToDoApi.dll
+C:\Users\TUMPENG\Downloads\todo-dotnet-core-master\todo-dotnet-core-master\ToDoApi.Tests\bin\Debug\netcoreapp1.1\ToDoApi.pdb
+C:\Users\TUMPENG\Downloads\todo-dotnet-core-master\todo-dotnet-core-master\ToDoApi.Tests\obj\Debug\netcoreapp1.1\ToDoApi.Tests.csprojResolveAssemblyReference.cache
+C:\Users\TUMPENG\Downloads\todo-dotnet-core-master\todo-dotnet-core-master\ToDoApi.Tests\obj\Debug\netcoreapp1.1\ToDoApi.Tests.csproj.CoreCompileInputs.cache
+C:\Users\TUMPENG\Downloads\todo-dotnet-core-master\todo-dotnet-core-master\ToDoApi.Tests\obj\Debug\netcoreapp1.1\ToDoApi.Tests.AssemblyInfoInputs.cache
+C:\Users\TUMPENG\Downloads\todo-dotnet-core-master\todo-dotnet-core-master\ToDoApi.Tests\obj\Debug\netcoreapp1.1\ToDoApi.Tests.AssemblyInfo.cs
+C:\Users\TUMPENG\Downloads\todo-dotnet-core-master\todo-dotnet-core-master\ToDoApi.Tests\obj\Debug\netcoreapp1.1\ToDoApi.Tests.dll
+C:\Users\TUMPENG\Downloads\todo-dotnet-core-master\todo-dotnet-core-master\ToDoApi.Tests\obj\Debug\netcoreapp1.1\ToDoApi.Tests.pdb
